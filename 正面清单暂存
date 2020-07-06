@@ -2,3 +2,40 @@
 inception v3:
 https://www.cnblogs.com/yymn/articles/8118690.html
 
+https://zhuanlan.zhihu.com/p/65459972
+
+
+https://zhuanlan.zhihu.com/p/31428783
+
+FC :
+https://blog.csdn.net/cuclxt/article/details/72231430
+https://zhuanlan.zhihu.com/p/56254712
+
+faster rcnn:
+https://zhuanlan.zhihu.com/p/31426458
+https://blog.csdn.net/jiongnima/article/details/79781792
+
+
+https://blog.csdn.net/JNingWei/article/details/80038594
+https://zhuanlan.zhihu.com/p/48958966
+
+
+
+人脸loss：
+https://blog.csdn.net/weixin_43013761/article/details/100019718
+
+https://github.com/biubug6/Face-Detector-1MB-with-landmark
+
+算子： 
+view expand
+Permute &  Transpose 
+Squeeze &Unsqueeze
+Reshape &View
+Cat &Stack
+Expand& Repeat
+split
+Interpolate
+
+
+张量：
+Clone  detach   

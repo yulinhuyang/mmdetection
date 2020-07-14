@@ -30,7 +30,13 @@ https://blog.csdn.net/weixin_43013761/article/details/100019718
 
 https://github.com/biubug6/Face-Detector-1MB-with-landmark
 
+
+
 算子： 
+tensorflow 原理整理 https://www.shuzhiduo.com/A/WpdK7Wo1dV/
+
+原理+ 算子
+
 view expand
 Permute &  Transpose 
 Squeeze &Unsqueeze
